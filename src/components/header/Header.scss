@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@600&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+.header-container {
+    height: 70px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 1px 3px #00000029;
+    border: 1px solid #FFFFFF;
+    opacity: 1;
+    display: flex;
+    align-items: center;
+    padding-left: 30px;
+
+    div {
+        font: normal normal 600 20px/24px Roboto;
+        letter-spacing: 0px;
+        color: #001A33;
+    }
+}
